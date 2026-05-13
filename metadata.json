@@ -1,0 +1,6 @@
+{
+  "name": "Virasat",
+  "description": "A refined digital guide to Karnataka's hidden heritage, featuring storytelling, audio tours, and virtual artifact discovery.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
