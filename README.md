@@ -1,20 +1,55 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# VIRASAT – Namma Guide (Tourism & Travel)
 
-# Run and deploy your AI Studio app
+## 📌 Project Description
+VIRASAT – Namma Guide is an AI-powered heritage and tourism guide web application designed to help users explore cultural and historical places with smart navigation and interactive features. The application provides an engaging travel experience using Google Maps integration, AI-based assistance, and a user-friendly interface.
 
-This contains everything you need to run your app locally.
+The project focuses on improving tourism accessibility by helping users discover important landmarks, heritage sites, and nearby attractions in a simple and interactive way.
 
-View your app in AI Studio: https://ai.studio/apps/5fdb2e2d-5120-4730-88de-382f63e66781
+---
 
-## Run Locally
+# 🚀 Features
 
-**Prerequisites:**  Node.js
+- 🗺️ Interactive Google Maps Integration
+- 🤖 AI-Powered Travel Guide using Gemini AI
+- 📍 Smart Navigation and Location Discovery
+- 🏛️ Heritage and Tourist Place Exploration
+- 👤 User Profile Management
+- 📱 Responsive Modern UI Design
+- 🔎 Search and Explore Destinations
+- ⚡ Fast and Optimized Performance
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# 🛠️ Technologies Used
+
+- React
+- TypeScript
+- Vite
+- Node.js
+- Firebase
+- Gemini AI
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+# 📂 Project Structure
+
+```bash
+Virasat_namma_guide/
+│
+├── screenshots/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── services/
+│   └── styles/
+│
+├── README.md
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+├── server.ts
+└── index.html
