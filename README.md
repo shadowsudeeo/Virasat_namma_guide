@@ -1,4 +1,3 @@
-````md
 # VIRASAT – Namma Guide
 
 ## 📌 Project Description
