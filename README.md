@@ -103,19 +103,22 @@ npm run build
 
 ## Home Page
 
-(Add screenshot image here)
+<img width="438" height="762" alt="Screenshot 2026-05-15 120152" src="https://github.com/user-attachments/assets/5859a6f5-c03c-4110-88e8-dd08580e6b9f" />
+<img width="397" height="725" alt="Screenshot 2026-05-15 120321" src="https://github.com/user-attachments/assets/6380fa56-c1e5-4e73-9e3b-dd31d4c42d2e" />
 
-## AI Guide Section
 
-(Add screenshot image here)
+## Scanning Section
+
+<img width="400" height="729" alt="Screenshot 2026-05-15 120912" src="https://github.com/user-attachments/assets/43d4d791-72a3-45a1-afb6-9860db318167" />
+
 
 ## Maps Navigation
 
-(Add screenshot image here)
+<img width="383" height="757" alt="Screenshot 2026-05-15 120332" src="https://github.com/user-attachments/assets/870db11f-089d-4beb-9049-af89475a0b75" />
 
 ## User Profile Page
 
-(Add screenshot image here)
+<img width="396" height="728" alt="Screenshot 2026-05-15 120505" src="https://github.com/user-attachments/assets/2c8f3521-18d7-438b-9ebe-ba8adf204b14" />
 
 ---
 
@@ -149,7 +152,7 @@ VIRASAT – Namma Guide solves this problem by combining AI assistance, interact
 
 # 👨‍💻 Developed By
 
-LOK SUDEEP S
+LOK SUDEEP S, USN - 1MJ23AI403, gmail - sudeepthanu1223@gmail.com
 
 ---
 
